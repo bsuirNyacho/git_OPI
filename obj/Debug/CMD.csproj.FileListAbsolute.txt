@@ -1,0 +1,8 @@
+C:\Users\Nyacho\source\repos\CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\Nyacho\source\repos\CMD\CMD\bin\Debug\CMD.exe
+C:\Users\Nyacho\source\repos\CMD\CMD\bin\Debug\CMD.pdb
+C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.csproj.AssemblyReference.cache
+C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.csproj.CoreCompileInputs.cache
+C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.exe
+C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.pdb
+C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.csproj.SuggestedBindingRedirects.cache

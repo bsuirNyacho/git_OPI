@@ -6,3 +6,11 @@ C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.csproj.CoreCompileInputs.cach
 C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.exe
 C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.pdb
 C:\Users\Nyacho\source\repos\CMD\CMD\obj\Debug\CMD.csproj.SuggestedBindingRedirects.cache
+D:\MyGitProject\CMD\CMD\bin\Debug\CMD.exe.config
+D:\MyGitProject\CMD\CMD\bin\Debug\CMD.exe
+D:\MyGitProject\CMD\CMD\bin\Debug\CMD.pdb
+D:\MyGitProject\CMD\CMD\obj\Debug\CMD.csproj.AssemblyReference.cache
+D:\MyGitProject\CMD\CMD\obj\Debug\CMD.csproj.SuggestedBindingRedirects.cache
+D:\MyGitProject\CMD\CMD\obj\Debug\CMD.csproj.CoreCompileInputs.cache
+D:\MyGitProject\CMD\CMD\obj\Debug\CMD.exe
+D:\MyGitProject\CMD\CMD\obj\Debug\CMD.pdb

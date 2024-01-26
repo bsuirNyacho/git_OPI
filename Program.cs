@@ -10,7 +10,7 @@ namespace CMD
     {
         static void Main(string[] args)
         {
-                Console.WriteLine("First Version1");
+            Console.WriteLine("First Version1");
             Console.ReadLine();
         }
     }
